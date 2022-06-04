@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-isi
     location: Sunnyvale, California
-    date_start: '2018'
-    date_end: '2020'
+    date_start: '2018-05-01'
+    date_end: '2020-08-20'
     description:
 
   - title: Vice President
@@ -36,7 +36,7 @@ experience:
     company_url: ''
     company_logo: org-jeu
     location: Baltimore, Maryland
-    date_start: '2021'
+    date_start: '2021-08-24'
     date_end: ''
     description: 
   
@@ -45,7 +45,7 @@ experience:
     company_url: ''
     company_logo: org-bb 
     location: Baltimore, Maryland
-    date_start: '2020'
+    date_start: '2020-09-01'
     date_end: ''
     description: 
 
