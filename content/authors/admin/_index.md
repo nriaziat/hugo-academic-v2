@@ -31,7 +31,7 @@ education:
     - course: BS in Mechanical Engineering, Minor in Electrical and Computer
         Engineering
       institution: Purdue University
-      year: 2001
+      year: 2020
 superuser: true
 highlight_name: true
 title: Naveed Riaziat
