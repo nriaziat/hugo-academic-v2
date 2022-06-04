@@ -8,6 +8,8 @@ authors:
   - Zulekha Karichawalla
   - admin
   - Jeremy D. Brown
+publication: In *International Symposium on Medical Robotics 2022*
+publication_short: In *ISMR 2022*
 abstract: Current commercially available robotic minimally invasive surgery
   (RMIS) platforms provide no haptic feedback of tool interactions with the
   surgical environment. As a consequence, novice robotic surgeons must rely
