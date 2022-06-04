@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: {first_initial}{last name}@jhu.edu
+  email: '{first_initial}{last name}@jhu.edu'
   
   contact_links:
     - icon: twitter
