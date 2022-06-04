@@ -37,7 +37,7 @@ abstract: |-
   numerical magnetic force models, and 3) testing with more
   complex mazes.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
