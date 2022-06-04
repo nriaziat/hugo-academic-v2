@@ -8,8 +8,8 @@
 appearance:
   theme_day: custom_theme
   theme_night: custom_theme
-  font: native
-  font_size: L
+  font: modern
+  font_size: M
 
 # SEO
 
