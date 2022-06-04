@@ -2,7 +2,8 @@
 title: An Open-Source Ungrounded Hapkit for Educational Applications
 authors:
   - admin
-  - Alexandra Miller
+  - Alexandra J. Miller
+  - Jeremy D. Brown
 author_notes:
   - Equal contribution
   - Equal contribution
@@ -35,7 +36,7 @@ publication: In *2021 World Haptics Conference*
 featured: true
 date: 2022-06-04T02:52:37.764Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: 10.1109/WHC49131.2021.9517254
