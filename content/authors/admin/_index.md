@@ -3,10 +3,7 @@ role: Mechanical Engineering PhD Student
 avatar_filename: avatar.jpg
 bio: "My research interests include medical robotics, shared autonomy, and
   haptic feedback. "
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -37,6 +34,6 @@ highlight_name: true
 title: Naveed Riaziat
 email: ""
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD Student in the Haptics and Medical Robotics Lab at Johns Hopkins University. My research on advancing medical robotics technology, specifically with regards to surgeon-in-the-loop autonomous control and haptic interfaces. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
