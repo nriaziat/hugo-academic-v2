@@ -17,9 +17,8 @@ abstract: The Hapkit is an open-source kinesthetic device used by educators to
   a tennis ball, to demonstrate functionality. This device can serve as a
   valuable pedagogical tool in conjunction with the well-established Hapkit.
 tags: []
-projects:
-  - example
-slides: example
+projects: []
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
@@ -34,7 +33,7 @@ url_source: ""
 url_video: ""
 publication: In *2021 World Haptics Conference*
 featured: true
-date: 2013-07-01T00:00:00Z
+date: 2022-06-04T02:52:37.764Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
