@@ -34,7 +34,7 @@ experience:
   - title: Vice President
     company: Mechanical Engineering Graduate Association
     company_url: ''
-    company_logo: org-jeu
+    company_logo: org-jhu
     location: Baltimore, Maryland
     date_start: '2021-08-24'
     date_end: ''
