@@ -25,10 +25,13 @@ organizations:
     url: https://lcsr.jhu.edu
 education:
   courses:
+    - course: PhD in Mechanical Engineering
+      institution: Johns Hopkins University
+      year: 2025
     - course: BS in Mechanical Engineering, Minor in Electrical and Computer
         Engineering
       institution: Purdue University
-      year: 2001
+      year: 2020
 superuser: true
 highlight_name: true
 title: Naveed Riaziat
