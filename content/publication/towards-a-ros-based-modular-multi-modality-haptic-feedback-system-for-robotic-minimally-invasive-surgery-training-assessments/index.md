@@ -33,7 +33,7 @@ abstract: Current commercially available robotic minimally invasive surgery
   running systematic comparisons between various single and dual-modality haptic
   feedback approaches.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
