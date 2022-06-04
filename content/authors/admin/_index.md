@@ -1,6 +1,6 @@
 ---
 role: Mechanical Engineering PhD Student
-avatar_filename: 74b0fbc9-6667-4e22-9c5f-ac4847106252.jpg
+avatar_filename: avatar.jpg
 bio: "My research interests include medical robotics, shared autonomy, and
   haptic feedback. "
 interests:
