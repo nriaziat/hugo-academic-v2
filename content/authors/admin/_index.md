@@ -34,7 +34,7 @@ education:
       year: 2020
 superuser: true
 highlight_name: true
-title: Naveed Riaziat
+title: Naveed D. Riaziat
 email: ""
 ---
 I am a PhD Student in the Haptics and Medical Robotics Lab at Johns Hopkins University. My research on advancing medical robotics technology, specifically with regards to surgeon-in-the-loop autonomous control and haptic interfaces. 
