@@ -1,46 +1,23 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title>wowchemy-hugo-themes/minimal.toml at main · wowchemy/wowchemy-hugo-themes</title>
-  <meta name="Description" content="🔥 Hugo website builder, Hugo themes &amp; Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。 - wowchemy-hugo-themes/minimal.toml at main · wowchemy/wowchemy-hugo-themes">
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2113.4">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Courier; color: #000000; -webkit-text-stroke: #000000}
-    span.s1 {font-kerning: none}
-    span.s2 {font: 12.0px '.AppleSystemUIFontMonospaced'; font-kerning: none; color: #0b2256; background-color: #ffffff; -webkit-text-stroke: 0px #0b2256}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1"># Theme metadata</span></p>
-<p class="p1"><span class="s1">name = “custom_theme”</span></p>
-<p class="p1"><span class="s1"><br>
-</span></p>
-<p class="p1"><span class="s1">[light]</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span># Primary</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>primary = "#1565c0"</span></p>
-<p class="p1"><span class="s1"><br>
-</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span># Menu</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>menu_primary = “#FFFFFF”</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>menu_text = "#</span><span class="s2">5F634F</span><span class="s1">"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>menu_text_active = "#</span><span class="s2">459370</span><span class="s1">"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>menu_title = "#</span><span class="s2">459370</span><span class="s1">"</span></p>
-<p class="p1"><span class="s1"><br>
-</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span># Home sections</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>home_section_odd = "rgb(255, 255, 255)"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>home_section_even = "rgb(255, 255, 255)”</span></p>
-<p class="p1"><span class="s1"><br>
-</span></p>
-<p class="p1"><span class="s1">[dark]</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span># Primary</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>primary = "#bbdefb"</span></p>
-<p class="p1"><span class="s1"><br>
-</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>link = "#bbdefb"</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>link_hover = "#bbdefb"</span></p>
-</body>
-</html>
+# Theme metadata
+name = "custom_theme"
+
+[light]
+  # Primary
+  primary = "#2BBf7F" #"#2963FF"
+
+  # Menu
+  menu_primary = "#FFFFFF"  #"#002D72"
+  menu_text = "#5F634F"  #"#EFEFEF"
+  menu_text_active =  "#459370" #"#8B575C"
+  menu_title = "#7A8865"
+
+  # Home sections
+  home_section_odd = "#FFFFFF"
+  home_section_even = "#FFFFFF" #"#fffff5"
+
+[dark]
+  # Primary
+  primary = "#bbdefb"
+
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
