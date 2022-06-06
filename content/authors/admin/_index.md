@@ -37,6 +37,6 @@ highlight_name: true
 title: Naveed D. Riaziat
 email: ""
 ---
-I am a PhD Student studying under Prof. Jeremy D. Brown in the [Haptics and Medical Robotics Lab](https://hamr.lcsr.jhu.edu) at Johns Hopkins University. My research on advancing medical robotics technology, specifically with regards to surgeon-in-the-loop autonomous control and haptic interfaces. On occasion, I also fret about my coffee routine, take photos, and make pottery.
+I am a PhD Student studying under Prof. Jeremy D. Brown in the [Haptics and Medical Robotics Lab](https://hamr.lcsr.jhu.edu) at Johns Hopkins University. My research focuses on advancing medical robotics technology, specifically with regards to surgeon-in-the-loop autonomous control and haptic interfaces. On occasion, I also fret about my coffee routine, take photos, and make pottery.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
