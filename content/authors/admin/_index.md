@@ -1,8 +1,8 @@
 ---
 role: Mechanical Engineering PhD Student
 avatar_filename: avatar.jpg
-bio: "My research interests include medical robotics, shared autonomy, and
-  haptic feedback. "
+bio: "My research interests include medical robotics, sensing, shared autonomy,
+  and haptic feedback. "
 interests: []
 social:
   - icon: envelope
@@ -28,6 +28,9 @@ education:
     - course: PhD in Mechanical Engineering
       institution: Johns Hopkins University
       year: 2025
+    - course: Masters in Robotics
+      institution: Johns Hopkins University
+      year: ""
     - course: BS in Mechanical Engineering, Minor in Electrical and Computer
         Engineering
       institution: Purdue University
