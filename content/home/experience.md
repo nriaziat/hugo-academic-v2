@@ -64,7 +64,7 @@ experience:
     company_logo: org-jhu
     location: Baltimore, Maryland
     date_start: '2021-08-24'
-    date_end: ''
+    date_end: '2022-05-24'
     description: 
   
   - title: Robotics Mentor
