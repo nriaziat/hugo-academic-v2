@@ -22,13 +22,39 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- title: Teaching Assistant - Mechatronics
+    company: Johns Hopkins University
+    company_url: ''
+    company_logo: org-jhu
+    location: Baltimore, Maryland
+    date_start: '2022-01-24'
+    date_end: '2022-05-24'
+    description: 
+- title: Teaching Assistant - Haptic Interface Design
+    company: Johns Hopkins University
+    company_url: ''
+    company_logo: org-jhu
+    location: Baltimore, Maryland
+    date_start: '2021-09-24'
+    date_end: '2021-12-24'
+    description: 
+    
+  - title: Mechanical Engineering Intern
+    company: Intuitive Surgical
+    company_url: ''
+    company_logo: org-isi
+    location: Sunnyvale, California
+    date_start: '2020-05-01'
+    date_end: '2020-08-20'
+    description:
+    
   - title: Mechatronics Intern
     company: Intuitive Surgical
     company_url: ''
     company_logo: org-isi
     location: Sunnyvale, California
-    date_start: '2018-05-01'
-    date_end: '2020-08-20'
+    date_start: '2019-05-01'
+    date_end: '2019-08-20'
     description:
 
   - title: Vice President
@@ -46,7 +72,7 @@ experience:
     company_logo: org-bb 
     location: Baltimore, Maryland
     date_start: '2020-09-01'
-    date_end: ''
+    date_end: '2021-05-20'
     description: 
 
 design:
