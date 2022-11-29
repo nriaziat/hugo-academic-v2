@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: Teaching Assistant - Mechatronics
+  - title: Teaching Assistant - Mechatronics
     company: Johns Hopkins University
     company_url: ''
     company_logo: org-jhu
@@ -30,7 +30,8 @@ experience:
     date_start: '2022-01-24'
     date_end: '2022-05-24'
     description: 
-- title: Teaching Assistant - Haptic Interface Design
+    
+  - title: Teaching Assistant - Haptic Interface Design
     company: Johns Hopkins University
     company_url: ''
     company_logo: org-jhu
