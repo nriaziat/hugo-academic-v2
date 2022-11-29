@@ -28,7 +28,7 @@ education:
     - course: PhD in Mechanical Engineering
       institution: Johns Hopkins University
       year: 2025
-    - course: Masters in Robotics
+    - course: MSE in Robotics
       institution: Johns Hopkins University
       year: 2022
     - course: BS in Mechanical Engineering, Minor in Electrical and Computer
