@@ -30,7 +30,7 @@ education:
       year: 2025
     - course: Masters in Robotics
       institution: Johns Hopkins University
-      year: ""
+      year: 2022
     - course: BS in Mechanical Engineering, Minor in Electrical and Computer
         Engineering
       institution: Purdue University
