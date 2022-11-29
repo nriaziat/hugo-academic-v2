@@ -42,4 +42,4 @@ email: ""
 ---
 I am a PhD Student studying under Prof. Jeremy D. Brown in the [Haptics and Medical Robotics Lab](https://hamr.lcsr.jhu.edu) at Johns Hopkins University. My research focuses on advancing medical robotics technology, specifically with regards to surgeon-in-the-loop hybrid control, novel sensing methods, and haptic interfaces. On occasion, I also fret about my espresso routine, take photos, and make pottery.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}} / {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}..
