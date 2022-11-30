@@ -2,13 +2,13 @@
 title: Development and Evaluation of a Bilateral Position-Based Control System
   for Magnetically Actuated Microrobots
 publication_types:
-  - "2"
+  - "3"
 authors:
   - admin
   - Onder Erin
   - Jeremy D. Brown
   - Axel Krieger
-publication: in progress
+publication: ""
 abstract: |-
   We present a bilateral teleoperation system ca-
   pable of controlling magnetically-actuated microrobots. Our
