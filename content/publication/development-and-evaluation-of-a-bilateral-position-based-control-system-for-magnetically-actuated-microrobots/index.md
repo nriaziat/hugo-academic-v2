@@ -2,7 +2,7 @@
 title: Development and Evaluation of a Bilateral Position-Based Control System
   for Magnetically Actuated Microrobots
 publication_types:
-  - "0"
+  - "2"
 authors:
   - admin
   - Onder Erin
