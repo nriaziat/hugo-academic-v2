@@ -5,12 +5,10 @@ publication_types:
   - "0"
 authors:
   - admin
-  - Sergio Machaca
-  - Alexandra J. Miller
   - Onder Erin
   - Jeremy D. Brown
   - Axel Krieger
-publication: under review for IROS 2022
+publication: in progress
 abstract: |-
   We present a bilateral teleoperation system ca-
   pable of controlling magnetically-actuated microrobots. Our
