@@ -1,6 +1,7 @@
 ---
-title: Development and Evaluation of a Bilateral Position-Based Control System
-  for Magnetically Actuated Microrobots
+title: " Bilateral Teleportation of a Ill-Posed Magnetic Microrobot with an
+  Online Force Measuring System"
+subtitle: ""
 publication_types:
   - "3"
 authors:
@@ -9,31 +10,20 @@ authors:
   - Jeremy D. Brown
   - Axel Krieger
 publication: ""
-abstract: |-
-  We present a bilateral teleoperation system ca-
-  pable of controlling magnetically-actuated microrobots. Our
-  system is built on the previously-developed MagnetoSuture
-  system, which uses remote-controlled magnetic fields to per-
-  form tetherless tissue suturing with sintered Neodymium Iron
-  Boron (NdFeB) suture needles. Improving upon the original
-  MagnetoSuture control interface, which uses a standard 2-
-  degree-of-freedom (DoF) gamepad, our approach uses a kines-
-  thetic haptic device (the 3D Systems Geomagic Touch) as a
-  control interface. This force-reflecting, position-based controller
-  is intended to improve the intuitiveness of the MagnetoSuture
-  control interface by offering greater environmental awareness
-  through kinesthetic feedback. Here we discuss the design and
-  architecture of this control strategy, including detailed analysis
-  of the magnetic dipole model based control, and evaluate the
-  efficacy of this control interface in navigating through a custom
-  maze. Our pilot study results suggest that this control interface
-  is as intuitive to use as the standard gamepad, and may be
-  the preferred control interface for some users. From these
-  findings, we are working towards 1) testing haptic performance
-  in occluded settings, akin to microbot guidance and control
-  over MRI, 2) enhancing the traditional PID controller with
-  numerical magnetic force models, and 3) testing with more
-  complex mazes.
+abstract: "We present a bilateral teleoperation method capable of controlling
+  magnetic microrobots. Our method is built on the MagnetoSuture, a quad-coil
+  magnetic actuation system which controls magnetic fields to perform tetherless
+  tissue suturing with sintered Neodymium Iron Boron (NdFeB) suture needles.
+  While under visually rich conditions, we found that haptic feedback preference
+  varies greatly, many magnetic robot procedures are conduced under slow, highly
+  corrupted or otherwise severely limited visual feedback, such as MRI, CT
+  Scans, and fluoroscopy.  Here we discuss the design and architecture of this
+  teleportation strategy, including detailed technical analysis of the FEM-based
+  control method, Tikhonov regularization for improving performance under
+  ill-posed conditions, EMI-resistant online force measurement, and fluoroscopy
+  simulations for user studies. We also evaluate the efficacy of this control
+  method in a mock aneurysm coiling task and discuss measures indicating both
+  task performance and neurological performance. "
 draft: false
 featured: true
 image:
