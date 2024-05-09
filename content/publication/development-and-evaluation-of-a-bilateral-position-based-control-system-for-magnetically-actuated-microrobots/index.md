@@ -9,8 +9,8 @@ authors:
   - Axel Krieger
   - Jeremy D. Brown
 doi: 10.1109/LRA.2024.3397529
-publication: IEEE Robotics and Automation Letters
-publication_short: IEEE RAL
+publication: In *IEEE Robotics and Automation Letters*
+publication_short: In *IEEE RAL*
 abstract: The evolution of magnetically actuated millirobots gives rise to
   unique teleoperation challenges due to their non-traditional kinematic and
   dynamic architectures, as well as their frequent use of suboptimal imaging
