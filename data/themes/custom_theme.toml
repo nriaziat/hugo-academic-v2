@@ -3,17 +3,17 @@ name = "custom_theme"
 
 [light]
   # Primary
-  primary = '#606C38' #"#2BBf7F" #"#2963FF"
+  primary = '#A3B18A' #"#2BBf7F" #"#2963FF"
 
   # Menu
   menu_primary = "#FEFAE0" #"#FFFFFF"  #"#002D72"
-  menu_text = "#606C38" # "#2BBf7F"  #"#EFEFEF"
-  menu_text_active = "#283618" #"#8B575C"
-  menu_title = "#606C38"
+  menu_text = "#3A5A40" # "#2BBf7F"  #"#EFEFEF"
+  menu_text_active = "#344E41" #"#8B575C"
+  menu_title = "#DAD7CD"
 
   # Home sections
-  home_section_odd = "#DDA15E"
-  home_section_even = "#FEFAE0" #"#fffff5"
+  home_section_odd = "#DAD7CD"
+  home_section_even = "#DAD7CD" #"#fffff5"
 
 [dark]
   # Primary
