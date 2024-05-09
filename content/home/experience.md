@@ -22,14 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Algorithms Engineering Intern
+      company: Intuitive Surgical 
+      company_url: 'https://www.intuitive.com/en-us'
+      company_logo: org-isi
+      location: Sunnyvale, California
+      date_start: '2023-05-14'
+      date_end: '2023-08-14
+      description: Algorithms intern for the Ion Advanced Product Development team. 
   - title: Teaching Assistant - Mechatronics
     company: Johns Hopkins University
     company_url: ''
     company_logo: org-jhu
     location: Baltimore, Maryland
     date_start: '2022-01-24'
-    date_end: '2022-05-24'
-    description: 
+    description: Developing course material, including final project "JHockey". 
     
   - title: Teaching Assistant - Haptic Interface Design
     company: Johns Hopkins University
@@ -42,7 +49,7 @@ experience:
     
   - title: Mechanical Engineering Intern
     company: Intuitive Surgical
-    company_url: ''
+    company_url: 'https://www.intuitive.com/en-us'
     company_logo: org-isi
     location: Sunnyvale, California
     date_start: '2020-05-01'
