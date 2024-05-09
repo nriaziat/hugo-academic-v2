@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Algorithms Engineering Intern
-      company: Intuitive Surgical 
-      company_url: 'https://www.intuitive.com/en-us'
-      company_logo: org-isi
-      location: Sunnyvale, California
-      date_start: '2023-05-14'
-      date_end: '2023-08-14'
-      description: Algorithms intern for the Ion Advanced Product Development team.
+    company: Intuitive Surgical 
+    company_url: 'https://www.intuitive.com/en-us'
+    company_logo: org-isi
+    location: Sunnyvale, California
+    date_start: '2023-05-14'
+    date_end: '2023-08-14'
+    description: Algorithms intern for the Ion Advanced Product Development team.
     
   - title: Teaching Assistant - Mechatronics
     company: Johns Hopkins University
