@@ -7,8 +7,8 @@ name = "custom_theme"
 
   # Menu
   menu_primary = "#F0EAD2" #"#FFFFFF"  #"#002D72"
-  menu_text = "#DDE5B6" # "#2BBf7F"  #"#EFEFEF"
-  menu_text_active = "#ADC178" #"#8B575C"
+  menu_text = "#ADC178" # "#2BBf7F"  #"#EFEFEF"
+  menu_text_active = "#A98467" #"#8B575C"
   menu_title = "#A98467"
 
   # Home sections
