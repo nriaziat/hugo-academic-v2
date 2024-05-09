@@ -37,6 +37,7 @@ experience:
     company_logo: org-jhu
     location: Baltimore, Maryland
     date_start: '2022-01-24'
+    date_end: '2024-05-09'
     description: Developing course material, including final project "JHockey". 
     
   - title: Teaching Assistant - Haptic Interface Design
