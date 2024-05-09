@@ -13,7 +13,7 @@ name = "custom_theme"
 
   # Home sections
   home_section_odd = "#DDA15E"
-  home_section_even = "#BC6C25" #"#fffff5"
+  home_section_even = "#FEFAE0" #"#fffff5"
 
 [dark]
   # Primary
