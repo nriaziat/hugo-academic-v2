@@ -28,7 +28,7 @@ experience:
       company_logo: org-isi
       location: Sunnyvale, California
       date_start: '2023-05-14'
-      date_end: '2023-08-14
+      date_end: '2023-08-14'
       description: Algorithms intern for the Ion Advanced Product Development team. 
   - title: Teaching Assistant - Mechatronics
     company: Johns Hopkins University
