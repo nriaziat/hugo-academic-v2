@@ -6,10 +6,10 @@ name = "custom_theme"
   primary = '#899878' #"#2BBf7F" #"#2963FF"
 
   # Menu
-  menu_primary = "#F0EAD2" #"#FFFFFF"  #"#002D72"
-  menu_text = "#899878" # "#2BBf7F"  #"#EFEFEF"
+  menu_primary = "#222725" #"#FFFFFF"  #"#002D72"
+  menu_text = "#F7F7F2" # "#2BBf7F"  #"#EFEFEF"
   menu_text_active = "#222725" #"#8B575C"
-  menu_title = "#222725"
+  menu_title = "#F7F7F2"
 
   # Home sections
   home_section_odd = "#F7F7F2"
