@@ -3,21 +3,21 @@ name = "custom_theme"
 
 [light]
   # Primary
-  primary = '#ADC178' #"#2BBf7F" #"#2963FF"
+  primary = '#899878' #"#2BBf7F" #"#2963FF"
 
   # Menu
   menu_primary = "#F0EAD2" #"#FFFFFF"  #"#002D72"
-  menu_text = "#ADC178" # "#2BBf7F"  #"#EFEFEF"
-  menu_text_active = "#A98467" #"#8B575C"
-  menu_title = "#A98467"
+  menu_text = "#899878" # "#2BBf7F"  #"#EFEFEF"
+  menu_text_active = "#E4E6C3" #"#8B575C"
+  menu_title = "#F7F7F2"
 
   # Home sections
-  home_section_odd = "#F0EAD2"
-  home_section_even = "#F0EAD2" #"#fffff5"
+  home_section_odd = "#F7F7F2"
+  home_section_even = "#F7F7F2" #"#fffff5"
 
 [dark]
   # Primary
-  primary = "#6C584C"
+  primary = "#121113"
 
-  link = "#DAD7CD"
-  link_hover = "#588157"
+  link = "#F7F7F2"
+  link_hover = "#E4E6C3"
