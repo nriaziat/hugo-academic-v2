@@ -19,5 +19,5 @@ name = "custom_theme"
   # Primary
   primary = "#121113"
 
-  link = "#F7F7F2"
-  link_hover = "#E4E6C3"
+  link = "#222725"
+  link_hover = "#899878"
