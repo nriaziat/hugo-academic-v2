@@ -28,10 +28,6 @@ content:
   email: '{first_initial}{last name}@jhu.edu'
   
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/NaveedRiaziat'
     - icon: linkedin
       icon_pack: fab
       name: Connect with Me
