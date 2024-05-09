@@ -8,9 +8,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/NaveedRiaziat
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=IM1ku7MAAAAJ&view_op=list_works&gmla=AJsN-F40iMLFTp9RXi7JbVIKy-J3Qra0hGMpobWve1inak6jYuxbEAC1DIg3hEX_WYFfXuY0wVNmyz6S9uLtoswZx1NY37Y7_g
