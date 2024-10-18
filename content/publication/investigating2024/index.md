@@ -23,7 +23,7 @@ abstract: The evolution of magnetically actuated millirobots gives rise to
   significantly improve millirobot telemanipulation and control in traditionally
   vision deficient tasks.
 draft: false
-url_pdf: uploads/investigating24.pdf
+url_pdf: uploads/investigating2024.pdf
 publication_types:
   - article-journal
 authors:
