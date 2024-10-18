@@ -1,17 +1,7 @@
 ---
 title: Investigating Haptic Feedback in Vision-Deficient Millirobot Telemanipulation
 subtitle: ""
-publication_types:
-  - "2"
-authors:
-  - admin
-  - Onder Erin
-  - Axel Krieger
-  - Jeremy D. Brown
 doi: 10.1109/LRA.2024.3397529
-publication: In *IEEE Robotics and Automation Letters*
-publication_short: In *IEEE RAL*
-url_pdf: "uploads/investigating24.pdf"
 abstract: The evolution of magnetically actuated millirobots gives rise to
   unique teleoperation challenges due to their non-traditional kinematic and
   dynamic architectures, as well as their frequent use of suboptimal imaging
@@ -33,6 +23,16 @@ abstract: The evolution of magnetically actuated millirobots gives rise to
   significantly improve millirobot telemanipulation and control in traditionally
   vision deficient tasks.
 draft: false
+url_pdf: uploads/investigating24.pdf
+publication_types:
+  - article-journal
+authors:
+  - admin
+  - Onder Erin
+  - Axel Krieger
+  - Jeremy D. Brown
+publication: In *IEEE Robotics and Automation Letters*
+publication_short: In *IEEE RAL*
 featured: true
 image:
   filename: featured
