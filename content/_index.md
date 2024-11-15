@@ -3,15 +3,12 @@ title: 'Home'
 date: 2023-10-24
 type: landing
 sections:
-  - block: resume-biography
+  - block: about.biography
+    id: about
     content:
-      # The user's folder name in content/authors/
+      title: Biography
+      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-    design:
-      spacing:
-        padding: [0, 0, 0, 0]
-      biography:
-        style: 'text-align: justify; font-size: 0.8em;'
   - block: experience
     content:
       title: Experience
