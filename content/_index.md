@@ -12,6 +12,7 @@ sections:
     id: about
     content:
       username: admin
+      text: ""
  - block: experience
     content:
       title: Experience
