@@ -88,6 +88,6 @@ sections:
           date_end: '2021-05-20'
           description: 
 
-    design:
-      columns: '2'
+      design:
+        columns: '2'
 ---
