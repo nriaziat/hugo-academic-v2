@@ -1,27 +1,62 @@
 ---
-# Page title
-title: My page
-# Page type - we want a landing page (such as a homepage)
+# Leave the homepage title empty to use the site title
+title: ""
+date: 2022-10-24
 type: landing
 
-# Your landing page sections - add as many different content blocks as you like
+design:
+  # Default section spacing
+  spacing: "6rem"
+
 sections:
-  # A section to display blog posts
-  - block: collection
-    id: section-1
+  - block: resume-biography-3
     content:
-      title: Section 1
-      subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-      # Display content from the `content/post/` folder
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      text: ""
+      # Show a call-to-action button under your biography? (optional)
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
+    design:
+      css_class: dark
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
+  - block: markdown
+    content:
+      title: '📚 My Research'
+      subtitle: ''
+      text: |-
+
+    design:
+      columns: '1'
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
       filters:
         folders:
-          - post
+          - publication
+        featured_only: true
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      # Choose your content listing view - here we use the `showcase` view
-      view: showcase
-      # For the Showcase view, do you want to flip alternate rows?
-      flip_alt_rows: true
----
+      view: article-grid
+      columns: 2
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
+----
