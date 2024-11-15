@@ -96,7 +96,7 @@ features:
 # Extensions
 
 extensions:
-  cms:
+  decap_cms:
     branch: main
     local_backend: false
   academicons:
