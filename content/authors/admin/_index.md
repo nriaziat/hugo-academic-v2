@@ -1,4 +1,7 @@
 ---
+
+first_name: Naveed
+last_name: Riaziat
 role: Mechanical Engineering PhD Student
 avatar_filename: avatar.jpg
 bio: "My research interests include medical robotics, sensing, shared autonomy,
