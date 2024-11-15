@@ -1,14 +1,25 @@
 ---
-title: ''
+title: 'Home'
+date: 2023-10-24
 type: landing
-design:
-  spacing: 6rem
 sections:
-  - block: about.avatar
-    id: about
+  - block: resume-biography
     content:
+      # The user's folder name in content/authors/
       username: admin
-      text: ''
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]
+      biography:
+        style: 'text-align: justify; font-size: 0.8em;'
+  - block: collection
+    content:
+      filters:
+        folders:
+          - blog
+    design:
+      spacing:
+        padding: ['3rem', 0, '6rem', 0]
   - block: experience
     content:
       title: Experience
