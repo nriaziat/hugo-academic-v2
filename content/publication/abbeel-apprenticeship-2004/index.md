@@ -1,0 +1,28 @@
+---
+title: Apprenticeship learning via inverse reinforcement learning
+authors:
+- Pieter Abbeel
+- Andrew Y. Ng
+date: '2004-01-01'
+publishDate: '2024-11-15T17:07:01.629933Z'
+publication_types:
+- paper-conference
+publication: "*Twenty-first international conference on Machine learning  - ICML '04*"
+doi: 10.1145/1015330.1015430
+abstract: We consider learning in a Markov decision process where we are not explicitly
+  given a reward function, but where instead we can observe an expert demonstrating
+  the task that we want to learn to perform. This setting is useful in applications
+  (such as the task of driving) where it may be diﬃcult to write down an explicit
+  reward function specifying exactly how diﬀerent desiderata should be traded oﬀ.
+  We think of the expert as trying to maximize a reward function that is expressible
+  as a linear combination of known features, and give an algorithm for learning the
+  task demonstrated by the expert. Our algorithm is based on using “inverse reinforcement
+  learning” to try to recover the unknown reward function. We show that our algorithm
+  terminates in a small number of iterations, and that even though we may never recover
+  the expert’s reward function, the policy output by the algorithm will attain performance
+  close to that of the expert, where here performance is measured with respect to
+  the expert’s unknown reward function.
+links:
+- name: URL
+  url: http://portal.acm.org/citation.cfm?doid=1015330.1015430
+---

@@ -1,0 +1,39 @@
+---
+title: 'Collaborative Suturing: A Reinforcement Learning Approach to Automate Hand-off
+  Task in Suturing for Surgical Robots'
+authors:
+- Vignesh Manoj Varier
+- Dhruv Kool Rajamani
+- Nathaniel Goldfarb
+- Farid Tavakkolmoghaddam
+- Adnan Munawar
+- Gregory S Fischer
+date: '2020-08-01'
+publishDate: '2024-11-15T17:07:01.917755Z'
+publication_types:
+- paper-conference
+publication: '*2020 29th IEEE International Conference on Robot and Human Interactive
+  Communication (RO-MAN)*'
+doi: 10.1109/RO-MAN47096.2020.9223543
+abstract: Over the past decade, Robot-Assisted Surgeries (RAS), have become more prevalent
+  in facilitating successful operations. Of the various types of RAS, the domain of
+  collaborative surgery has gained traction in medical research. Prominent examples
+  include providing haptic feedback to sense tissue consistency, and automating sub-tasks
+  during surgery such as cutting or needle hand-off - pulling and reorienting the
+  needle after insertion during suturing. By fragmenting suturing into automated and
+  manual tasks the surgeon could essentially control the process with one hand and
+  also circumvent workspace restrictions imposed by the control interface present
+  at the surgeon's side during the operation. This paper presents an exploration of
+  a discrete reinforcement learning-based approach to automate the needle hand-off
+  task. Users were asked to perform a simple running suture using the da Vinci Research
+  Kit. The user trajectory was learnt by generating a sparse reward function and deriving
+  an optimal policy using Q-learning. Trajectories obtained from three learnt policies
+  were compared to the user defined trajectory. The results showed a root-mean-square
+  error of [0.0044mm, 0.0027mm, 0.0020mm] in ℝ3. Additional trajectories from varying
+  initial positions were produced from a single policy to simulate repeated passes
+  of the hand-off task.
+links:
+- name: URL
+  url: 
+    https://ieeexplore.ieee.org/document/9223543/citations?tabFilter=papers#citations
+---

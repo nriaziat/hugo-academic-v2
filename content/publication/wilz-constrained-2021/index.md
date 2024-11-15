@@ -1,0 +1,46 @@
+---
+title: Constrained haptic-guided shared control for collaborative human–robot percutaneous
+  nephrolithotomy training
+authors:
+- Olivia Wilz
+- Ben Sainsbury
+- Carlos Rossa
+date: '2021-05-01'
+publishDate: '2024-11-15T17:07:01.753738Z'
+publication_types:
+- article-journal
+publication: '*Mechatronics*'
+doi: 10.1016/j.mechatronics.2021.102528
+abstract: Percutaneous nephrolithotomy is a procedure used to treat patients with
+  large or irregularly shaped kidney stones. Surgical instruments are inserted through
+  a small incision to access the kidney and remove the calculi. Surgeons who have
+  less experience with the procedure manifest significantly higher rates of complications
+  due to the procedure’s steep learning curve. This issue is further exacerbated by
+  a lack of training opportunities in clinical settings. This paper introduces a teleoperative
+  framework that can provide training to surgeons as well as assistance during procedures,
+  based on two main components. Firstly, a type of constrained inverse kinematics
+  that decouples the tooltip position from its orientation using a remote centre of
+  motion, and incorporates the joint limits analytically. This reduces the workload
+  of the procedure by having the surgeon control only the tooltip position rather
+  than the position and the orientation while preventing the inverse kinematics from
+  returning joint angles outside of the robot’s abilities. This kinematic framework
+  also allows a three-degrees-of-freedom haptic device to control a six-degrees-of-freedom
+  manipulator. Secondly, haptic feedback is provided to help guide and teach the surgeon
+  during the procedure. Haptic feedback allows the surgeon to remain in full control
+  during the procedure while still receiving haptic cues and assistance. Experimental
+  results indicate that the haptic cues improved user’s accuracy, and they had shorter
+  and smoother paths. This leads to a shorter procedure time overall. The results
+  also indicate that the haptic assistance helped teach users the ideal trajectory
+  of the procedure and that users who were taught with haptic feedback performed better
+  than those who never experienced any haptic feedback.
+tags:
+- Medical robotics
+- Constrained inverse kinematics
+- Haptic assistance
+- Human–robot interface
+- Percutaneous nephrolithotomy
+- Remote centre of motion
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0957415821000301
+---

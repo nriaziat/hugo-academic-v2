@@ -1,0 +1,29 @@
+---
+title: Stable Adaptive Systems
+authors:
+- Kumpati S. Narendra
+- Anuradha M. Annaswamy
+date: '2012-07-01'
+publishDate: '2024-11-15T17:07:02.584501Z'
+publication_types:
+- book
+publication: '*Courier Corporation*'
+abstract: This graduate-level text focuses on the stability of adaptive systems, and
+  offers a thorough understanding of the global stability properties essential to
+  designing adaptive systems. Its self-contained, unified presentation of well-known
+  results establishes the close connections between seemingly independent developments
+  in the field. Prerequisites include a knowledge of linear algebra and differential
+  equations, as well as a familiarity with basic concepts in linear systems theory.The
+  first chapter sets the tone for the entire book, introducing basic concepts and
+  tracing the evolution of the field from the 1960s through the 1980s. The first seven
+  chapters are accessible to beginners, and the final four chapters are geared toward
+  more advanced, research-oriented students. Problems ranging in complexity from relatively
+  easy to quite difficult appear throughout the text.Topics include results in stability
+  theory that emphasize incidents directly relevant to the study of adaptive systems;
+  the stability properties of adaptive observers and controllers; the important concept
+  of persistent excitation; the use of error models in systems analysis; areas of
+  intense research activity; and five detailed case studies of systems in which adaptive
+  control has proved successful
+tags:
+- Science / Applied Sciences
+---

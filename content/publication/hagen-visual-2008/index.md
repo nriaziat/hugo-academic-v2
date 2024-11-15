@@ -1,0 +1,51 @@
+---
+title: Visual clues act as a substitute for haptic feedback in robotic surgery
+authors:
+- M. E. Hagen
+- J. J. Meehan
+- I. Inan
+- P. Morel
+date: '2008-06-01'
+publishDate: '2024-11-15T17:07:01.867266Z'
+publication_types:
+- article-journal
+publication: '*Surgical Endoscopy*'
+doi: 10.1007/s00464-007-9683-0
+abstract: "OBJECTIVE: The lack of haptic feedback (HF) in robotic surgery is one of
+  the major concerns of novice surgeons to that field. The superior visual appearances
+  acquired during robotic surgery may give clues that make HF less important. METHODS:
+  We surveyed 52 individuals on their perception of HF during robotic surgery. The
+  first group of 34 surgically inexperienced people used the da Vinci robot for their
+  first time (drylab). The second group included 8 laparoscopic surgeons with experience
+  up to a fifth robotic operation. The third group included 10 surgical experts with
+  substantial experience (150-650 robotic cases). Visual analog assessment was made
+  of perception of HF, how much HF was missed, how much the absence of HF impaired
+  the operators' level of comfort. Robotic experts were asked if complications have
+  occurred as a result of a lack of HF. RESULTS: Of the first group, 50% reported
+  the perception of HF, as did 55% of the second group and 100% of the third group
+  (difference between group 1 and group 3: p textless 0.05). The first group missed
+  HF for 6.5; the second group for 4.3, and the third group for 4 (difference between
+  groups 1 and 3: p textless 0.05). The surgical experts claimed to have missed HF
+  for 7.2 s when they first started robotic surgery (Difference to now: p textless
+  0.05). The lack of HF caused discomfort for the first group of 4; for the second
+  group of 4,4, and for the third group of 2,6. One complication was reported by the
+  robotic experts as resulting from the lack of HF. CONCLUSIONS: The data support
+  the conclusion that even beginners quickly experience the perception of HF when
+  performing robotic surgery. With more experience, perception of HF and the level
+  of comfort with robotic surgery increases significantly. This perception of HF makes
+  \\\"real\\\" HF less important and demonstrates that its importance is overestimated
+  by novices in robotic surgery."
+tags:
+- Humans
+- Feedback
+- Clinical Competence
+- Suture Techniques
+- Task Performance and Analysis
+- Robotics
+- Adult
+- Middle Aged
+- Adolescent
+- Laparoscopy
+- Surgery
+- Computer-Assisted
+---
